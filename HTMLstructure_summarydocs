@@ -1,0 +1,6 @@
+HTML STRUCTURE
+1. HTML pages are text documents.
+2. HTML uses tags to give the information they surround special meaning.
+3. Tags are often referred to as elements.
+4. Opening tags can carry attributes, which tells us more about the content of that element.
+5. Attributes require a name and a value.
