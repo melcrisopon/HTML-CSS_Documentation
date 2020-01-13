@@ -1,0 +1,3 @@
+HTML TABLE SUMMARY
+1. You can make cells of a table span more than one row or column using rowspan or colspan attributes
+2. For long tables, you can split the table into a <thead>, <tbody>, and <tfoot>
