@@ -1,0 +1,5 @@
+HTML LINKS SUMMARY
+1. Links are created using <a> element
+2. <a> element uses href attribute to indicate the page you are linking to.
+3. When linking to a page within your own website, better use relative links than qualified URLs.
+4. Use the id attribute to target elements within a page that can be linked to.
