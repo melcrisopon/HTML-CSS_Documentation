@@ -1,0 +1,5 @@
+HTML IMAGES SUMMARY
+1. Use JPEG format if an image has various colors
+2. Use GIF or PNG format for imaages with few colors or large areas of the same color
+3. Images created for the web should be saved at a resolution of 72 ppi
+4. Always specify a src attribute to indicate the source of the image and an alt attribute to describe the content of the image
