@@ -1,0 +1,6 @@
+HTML FORMS SUMMARY
+1. get method are for short forms (such as search boxes), when you just retrieving data from the web server
+2. post method allow users to upload a file, is very long, contains sensitive data (e.g. passwords), 
+  adds information or deletes information from a database
+3. Some important type for forms - email, url, search
+4. information in form is sent in name/value pairs
