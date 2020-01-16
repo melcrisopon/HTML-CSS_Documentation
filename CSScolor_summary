@@ -1,0 +1,4 @@
+CSS COLORS SUMMARY
+1. Three ways to specify color in CSS: RGB, hex, and color names
+2. RGBA ---> colors with opacity
+3. HSL --> hue, saturation, and lightness (with opacity HSLA)
