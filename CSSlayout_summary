@@ -1,0 +1,5 @@
+CSS LAYOUT SUMMARY
+1. <div> used as containing elements to group together sections of a page
+2.browsers display pages in normal flow unless specify relative, absolute, or fixed positioning
+3. floated items require a defined width
+4. 960 - 1000 pixel wides and 570-600 height
